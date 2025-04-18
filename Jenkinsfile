@@ -114,7 +114,7 @@ pipeline {
             }
 
             environment {
-                CI_ENVIRONMENT_URL = 'YOUR NETLIFY SITE URL'
+                CI_ENVIRONMENT_URL = 'https://elegant-flan-029eb0.netlify.app'
             }
 
             steps {
