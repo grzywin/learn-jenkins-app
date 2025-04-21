@@ -6,7 +6,7 @@
     "containerDefinitions": [
         {
             "name": "learnjenkinsapp",
-            "image": "nginx:1.27.5-alpine",
+            "image": "nginx:1.27.5-alpine-slim",
             "portMappings": [
                 {
                     "name": "ngnix-80-tcp",
